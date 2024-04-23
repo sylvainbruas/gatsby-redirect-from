@@ -39,9 +39,9 @@
   "engines": {
     "node": ">=18"
   },
-  "repository": "github:kremalicious/gatsby-redirect-from",
+  "repository": "github:sylvainbruas/gatsby-redirect-from",
   "bugs": {
-    "url": "https://github.com/kremalicious/gatsby-redirect-from/issues"
+    "url": "https://github.com/sylvainbruas/gatsby-redirect-from/issues"
   },
   "keywords": [
     "gatsby",
